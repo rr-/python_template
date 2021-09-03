@@ -13,7 +13,7 @@ This is a template that I use for a typical vanilla Python project. Includes:
 - setup.cfg template
 - type hints stubs (PEP-561)
 - GitHub actions template
-- Makefile with
+- Makefile
 
 To use it:
 - copy the directory tree
