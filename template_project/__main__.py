@@ -15,3 +15,7 @@ def main() -> None:
     """Main script routine."""
     args = parse_args()
     print(args)
+
+
+if __name__ == "__main__":
+    main()
