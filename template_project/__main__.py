@@ -14,3 +14,4 @@ def parse_args() -> argparse.Namespace:
 def main() -> None:
     """Main script routine."""
     args = parse_args()
+    print(args)
